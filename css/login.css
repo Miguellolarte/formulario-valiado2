@@ -1,0 +1,16 @@
+body{
+    background-image: url(../img/FONDO6agua78.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+.row{
+    background: rgba(0, 0, 0, 0.514);
+    color: rgb(245, 245, 245);
+    padding:  15px 15px 15px 15px;
+    margin-top: 20%;
+    text-align: center;
+}
